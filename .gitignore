@@ -1,0 +1,11 @@
+build/
+.dart_tool/
+.idea/
+.vscode/
+*.iml
+android/app/build/
+ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+macos/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+web/build/
+.DS_Store
+.env
